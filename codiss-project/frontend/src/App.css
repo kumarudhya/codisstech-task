@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+  background-color: #61dafb;
+}
+.nav-bar{
+  /* background-color: rgba(24, 182, 156, 0.603); */
+  background-image: url("https://image.shutterstock.com/image-vector/clean-sky-blue-gradient-background-260nw-1655872747.jpg");
+}
+.nav:hover{
+  /* background-color:yellowgreen; */
+  text-decoration: underline 4px rgba(232, 9, 240, 0.568);
+  border-radius: 13%;
+  text-underline-position: below;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-transform: uppercase;
+  
+}
+
+.home{
+ padding-left:30%;
+
+
+}
+
+th,td,table {
+  color:white;
+  display: block;
+  text-align: left;
+  padding: 6px;
+  border: 2px solid blue;
+  border-collapse: collapse;
+}
+
+
+tr {
+  display: block;
+  float: left;
+  border: 2px solid white;
+}
+
+
+.img{
+  height:650px;
+  width:700px;
+}
+
+.createaccount{
+  color:brown;
+  height:650px;
+
+  
+}
+
+
+#createaccount{
+  
+  width: 300px;
+  border: 8px solid black;
+  padding: 50px;
+  border-radius: 12%;
+  margin-top: -20px;
+  /* margin-bottom: 60px; */
+  margin-right: 500px;
+  margin-left: 550px;
+  background-color: aquamarine;
+  box-shadow: 5px 5px red, -1em 0 .6em olive;
+
+
+
+}
+.deposite{
+background-color:rgb(106, 248, 248);
+}
+.image{
+  height:200px;
+  width:200px;
+}
+.withdraw{
+  background-color:bisque;
+  color: red;
+}
+
+.alldata{
+  background-color:mediumaquamarine;
+}
+
+
+img{
+  height:400px;
+  width: 400px;
+  text-align: center;
+ 
+}
+
